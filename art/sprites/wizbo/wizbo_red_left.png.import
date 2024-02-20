@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dtwxhnt6e4nlh"
-path="res://.godot/imported/dungeon.png-d7cdfb8a6a2b4ea0bc28d9084da6b5d5.ctex"
+uid="uid://b1tkjq457gb1c"
+path="res://.godot/imported/wizbo_red_left.png-bdf30dddfc51ff75676721467b756ce5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/tilesets/dungeon.png"
-dest_files=["res://.godot/imported/dungeon.png-d7cdfb8a6a2b4ea0bc28d9084da6b5d5.ctex"]
+source_file="res://art/sprites/wizbo/wizbo_red_left.png"
+dest_files=["res://.godot/imported/wizbo_red_left.png-bdf30dddfc51ff75676721467b756ce5.ctex"]
 
 [params]
 
