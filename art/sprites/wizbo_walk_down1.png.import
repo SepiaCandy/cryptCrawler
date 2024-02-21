@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b1tkjq457gb1c"
-path="res://.godot/imported/wizbo_red_left.png-bdf30dddfc51ff75676721467b756ce5.ctex"
+uid="uid://dvaw6w7w0h0dv"
+path="res://.godot/imported/wizbo_walk_down1.png-7d6a2a80b31bf3e89276f424eaffb9ad.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/sprites/wizbo/wizbo_red_left.png"
-dest_files=["res://.godot/imported/wizbo_red_left.png-bdf30dddfc51ff75676721467b756ce5.ctex"]
+source_file="res://art/sprites/wizbo_walk_down1.png"
+dest_files=["res://.godot/imported/wizbo_walk_down1.png-7d6a2a80b31bf3e89276f424eaffb9ad.ctex"]
 
 [params]
 
